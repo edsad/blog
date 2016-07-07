@@ -1,0 +1,32 @@
+img {
+    max-width: 400px;
+}
+
+body {
+    font-family: sans-serif;
+    color: #222222;
+}
+
+.red_outline {
+    border: 1px solid red;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px 3px 5px 4px;
+    background-color: azure;
+    margin: 10px;
+}
+
+a {
+    text-decoration: underline;
+    color: firebrick;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: black;
+    text-decoration: line-through;
+}
