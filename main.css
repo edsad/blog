@@ -6,6 +6,13 @@ body {
     font-family: sans-serif;
     color: #222222;
 }
+.hidden {
+    display: 
+}
+
+.min_input {
+    min-width: 500px
+}
 
 .red_outline {
     border: 1px solid red;
